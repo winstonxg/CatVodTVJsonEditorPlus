@@ -1,2 +1,0 @@
-# CatVodTVJsonEditorPlus
-CatVodTVJsonEditorPlus
